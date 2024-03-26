@@ -27,9 +27,9 @@ st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
-- Experience Industrial Engineer with data sceince and modeling experience
-- Forecasting and Inventory Planning
-- Operations
+- Experienced Industrial Engineer with optimization and data science knowledge
+- Passionate about solving complex problems by developing robuest solution based on data
+- Demonstrated leadership experience in automotive and retail supply chains across planning and operations
 ''')
 
 #####################
@@ -117,10 +117,22 @@ st.markdown('''
 ## Work Experience
 ''')
 
+txt('**Consultant, Supply Chain Practice**, SRM Tech, Remote',
+'2024-Present')
+st.markdown('''
+- Assist with gathering requirements from potential leads and existing clients
+- Develop scope of work for SCM solution in partnership with external and internal stakeholders
+- Identify and assist in creating the technical and domain requirements for recruitment both in India and US
+- Partner with technical team to develop and implement SCM solutions – POC, MVP and final product
+- Assist in demo'ing the solution to potential leads and existing clients
+''')
+
 txt('**Manager, Operations Excellence**, American Eagle Outfitters, Pittsburgh, PA',
 '2021-Present')
 st.markdown('''
-- Warehouse science
+- Developed production planning strategy for eight 3PL sites which resulted in 1MUSD+ yearly savings
+- Responsible for new & exisiting site layout design, MHE selection, and process engineering
+- Developed engineering labor standards for process and led various initiatives to improve site throughput by 20%
 ''')
 
 txt('**Lead, Supply Chain Optimization**, Volvo Group, Greensboro, NC',
