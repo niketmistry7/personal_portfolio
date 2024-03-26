@@ -100,16 +100,13 @@ st.markdown('''
 txt('**Master of Science** (Industrial & Systems Engineering), *North Carolina State University*, Raleigh, North Carolina',
 '2016-2018')
 st.markdown('''
-- Simulation SIMIO.
-- Enrolment model for undergraduate students - Logistics regression
-- Inventory modeling, forecasting, Python
+- Supply Chain Management Minor
 ''')
 
 txt('**Bachelors of Engineering** (Mechanical Engineering), *KSV University*, India',
 '2012-2016')
 st.markdown('''
-- Graduated with First Class Honors.
-- Sustainable low cost power generation
+- Industrial Engineering Minor
 ''')
 
 #####################
